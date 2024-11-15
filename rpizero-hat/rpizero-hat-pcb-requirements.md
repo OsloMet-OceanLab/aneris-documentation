@@ -7,13 +7,14 @@
 
 ## PoE PIN diagram
 
+![PoE pins][images/Poe-pins.png]
 
-1-
-2-
-3-
-4-
-5-
-6-
-7-
-8-
+1. Rx+
+2. Rx-
+3. Tx+
+4. DC+
+5. DC+
+6. Tx-
+7. DC-
+8. DC-
 
