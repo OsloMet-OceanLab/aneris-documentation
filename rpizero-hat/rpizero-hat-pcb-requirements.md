@@ -36,7 +36,7 @@
 
 ## PoE PIN diagram
 
-![PoE pins](PoE-pins.png = 100x100)
+![PoE pins](PoE-pins.png)
 
 | PIN     | Color           | Function |
 | :-------| :------:        | ----: |
