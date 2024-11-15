@@ -7,7 +7,7 @@
 
 ## PoE PIN diagram
 
-![PoE pins](images\PoE-pins.png)
+![PoE pins](PoE-pins.png)
 
 1. Rx+
 2. Rx-
