@@ -1,0 +1,12 @@
+[submodule "src/aneris"]
+	path = src/aneris
+	url = git@github.com:OsloMet-OceanLab/aneris.git
+[submodule "src/aneris-3"]
+	path = src/aneris-3
+	url = git@github.com:OsloMet-OceanLab/aneris-3.git
+[submodule "src/nightlight"]
+	path = src/nightlight
+	url = git@github.com:OsloMet-OceanLab/nightlight.git
+[submodule "src/deathray"]
+	path = src/deathray
+	url = git@github.com:OsloMet-OceanLab/deathray.git
